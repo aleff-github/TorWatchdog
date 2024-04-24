@@ -2,6 +2,8 @@
 
 Tor Watchdog Bot is a Telegram bot designed to monitor the status of Tor relays and notify users when relays go offline.
 
+> **Currently, the bot is reported to be reachable but not usable (the backand is not active) for security reasons towards users so if you try to use the bot you will not receive responses. Feel free to download, modify, test and use the published code as it has been released under the GPLv3 license**
+
 <img src="assets/UNOFFICIAL.png" width="150"/>
 
 ## Features
