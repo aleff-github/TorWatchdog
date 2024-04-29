@@ -1,2 +1,3 @@
-config.ini
 tor_watchdog.db
+*.ini
+*.log
